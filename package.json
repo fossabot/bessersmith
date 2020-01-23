@@ -22,7 +22,7 @@
     "lodash": "^4.17.15",
     "memory-cache": "^0.2.0",
     "moment": "^2.24.0",
-    "mqtt": "^2.18.8",
+    "mqtt": "^3.0.1",
     "neodoc": "^2.0.2",
     "protobufjs": "^6.8.8"
   },
